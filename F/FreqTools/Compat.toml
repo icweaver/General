@@ -1,0 +1,13 @@
+[0]
+CategoricalArrays = "0.5.0 - *"
+DataFrames = "1.7.0 - *"
+Distributions = "0.2.0 - *"
+FreqTables = "1.0.0 - *"
+HypothesisTests = "0.11.0 - *"
+NamedArrays = "0.9.0 - *"
+PrettyTables = "2.0.0 - *"
+Printf = "0.5.0 - *"
+Reexport = "1.0.0 - *"
+StatsAPI = "1.0.0 - *"
+TableMetadataTools = "0.1.0 - *"
+julia = "1.6.0 - *"
